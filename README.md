@@ -1,5 +1,3 @@
-# springbootA572D
-springbootA572D游戏交易平台
 ## 源码问题查看主页咨询
 
 ### 一、关键词
